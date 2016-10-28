@@ -1,1 +1,4 @@
-使用jqueryui知识做的一个自定义小部件。
+
+# jQueryUI-dataSource
+使用jQuery UI开发的小部件
+
